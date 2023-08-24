@@ -1,7 +1,7 @@
 # Pong
-Pong in Python made with the Turtle and Pong libraries
+Pong in Python made with Turtle and Pong libraries
 
-Key Features:
+**Key Features:**
 - 🕹️ Paddle-Bouncing Action: Experience the excitement of two-player Pong, where each player controls a paddle to bounce the ball past their opponent.
 
 - 🎮 Simple and Intuitive: Play with easy-to-use controls, making it accessible for players of all skill levels.
